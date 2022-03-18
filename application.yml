@@ -1,6 +1,6 @@
 
 my:
-  greeting: Hello World from Config Server - 1
+  greeting: Hello World from Config Server - refreshed once
   list:
     values: One, Two, Three, Four, Five
 
