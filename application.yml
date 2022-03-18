@@ -2,7 +2,7 @@
 my:
   greeting: Hello World from Config Server
   list:
-    values: One, Two, Three, Four
+    values: One, Two, Three, Four, Five
 
 
 db:
